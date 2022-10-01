@@ -72,8 +72,8 @@ int APIENTRY _tWinMain(HINSTANCE This,
 	auto a = GetLastError();
 	while (GetMessage(&msg, NULL, 0, 0))
 	{
-		//ranslateMessage(&msg);
-		//DispatchMessage(&msg);
+		TranslateMessage(&msg);
+		DispatchMessage(&msg);
 	}
 	return 0;
 }
