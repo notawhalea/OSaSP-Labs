@@ -31,6 +31,14 @@ Learn how to create and use dynamically-loaded libraries (DLLs), a method of inj
 - Develop a program that performs a dynamic import of a DLL and calls its function.
 - Develop a program that injects a DLL into a given process using a remote thread and calls a DLL function.
 **********
+**Fourth lab**:snowman:
+
+Working with the registry
+
+- Develop a program to create and delete keys in the registry.
+- Develop a program to write the initial value of the selected file in the registry to a file
+- Develop a program to work with the registry by creating and deleting subkeys
+**********
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
