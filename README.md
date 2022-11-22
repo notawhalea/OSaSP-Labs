@@ -22,6 +22,15 @@ Learning the output of text and fonts.:computer:
 are distributed across the width of the window, and the height of the rows of the table is selected in such a way as to accommodate the text of each cell.
 - When resizing the window, the table is recalculated and redrawn.
 **********
+**Third lab**:dog:
+
+Learn how to create and use dynamically-loaded libraries (DLLs), a method of injecting a DLL into another process using a remote thread.
+
+- Develop a DLL with a function that searches the entire virtual memory for a given string and replaces it with another string.
+- Develop a program that performs a static import of a DLL and calls its function.
+- Develop a program that performs a dynamic import of a DLL and calls its function.
+- Develop a program that injects a DLL into a given process using a remote thread and calls a DLL function.
+**********
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
