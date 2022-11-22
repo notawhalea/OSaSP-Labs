@@ -1,0 +1,7 @@
+LIBRARY "SomeDll"
+
+EXPORTS
+SayHello @1
+Sum @2
+Sub @3
+Replace @4
