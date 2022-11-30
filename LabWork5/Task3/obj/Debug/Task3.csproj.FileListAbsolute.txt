@@ -1,0 +1,16 @@
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\bin\Debug\Task3.exe.config
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\bin\Debug\Task3.exe
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\bin\Debug\Task3.pdb
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\obj\Debug\Task3.exe
+C:\Users\Gleb\Desktop\For Git\OSSP-LabWork4\Task3\obj\Debug\Task3.pdb
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\bin\Debug\Task3.exe.config
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\bin\Debug\Task3.exe
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\bin\Debug\Task3.pdb
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\obj\Debug\Task3.exe
+D:\БГУИР\3 курс\5 семестр\ОСиСП\Прочие\OSSP-LabWork4\Task3\obj\Debug\Task3.pdb
