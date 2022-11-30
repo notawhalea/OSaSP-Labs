@@ -33,11 +33,22 @@ Learn how to create and use dynamically-loaded libraries (DLLs), a method of inj
 **********
 **Fourth lab**:snowman:
 
-Working with the registry
+Working with the registry:floppy_disk:
 
 - Develop a program to create and delete keys in the registry.
 - Develop a program to write the initial value of the selected file in the registry to a file
 - Develop a program to work with the registry by creating and deleting subkeys
+**********
+**Fifht lab**:koala:
+
+Studying the creation and use of threads and synchronization mechanisms.:lock:
+
+- Design a job queue into which multiple threads can insert items atomically.
+- Develop a handler for this queue, which extracts tasks from it and distributes them to a given number of threads.
+- Develop a program that uses a job queue and a queue handler to sort lines in a text file:
+The input stream reads the file into memory, cuts it into pieces and creates several sort jobs (by the number of sorting streams),
+placed in the job queue. Sorting threads extract tasks, sort their parts of the file, return all results
+output stream. The output stream waits for all the sorted parts and merges them using sorting merge.
 **********
 I just relax and gained experience here.
 
